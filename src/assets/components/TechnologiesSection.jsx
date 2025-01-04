@@ -115,8 +115,9 @@ export default function TechnologiesSection() {
           </button>
           
           <div 
+          // hover effects over the technologies seciton
             className={`relative overflow-hidden transition-all duration-300 ease-in-out ${
-              openSection === index ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
+              openSection === index ? 'max-h-100 opacity-100' : 'max-h-0 opacity-0'
             }`}
           >
             <div className="p-6 rounded-3xl bg-gradient-to-br from-[#313638] to-[#1a1d1e] shadow-xl">
