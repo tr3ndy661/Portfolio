@@ -5,6 +5,9 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({  
   plugins: [react()],  
   rollupOptions: {  
-    external: ['typewriter-effect']  
-  } 
+    external: ['typewriter-effect'],
+  },
+  build: {  
+    target: 'es2022', // or 'chrome80', 'firefox79', etc.  
+  }, 
 });
