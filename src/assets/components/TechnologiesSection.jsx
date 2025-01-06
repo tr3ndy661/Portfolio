@@ -93,7 +93,7 @@ export default function TechnologiesSection() {
   const [openSection, setOpenSection] = useState(null);
 
   return (
-    <div id="technologies-section" className="ml-24 mr-24 mt-24 mb-24 p-6 space-y-2">
+    <div id="technologies-section" className="ml-24 mr-24 mt-10 mb-24 p-6 space-y-2">
       <h2 className="text-xl font-semibold mb-4">Technologies</h2>
       
       {technologies.map((tech, index) => (
