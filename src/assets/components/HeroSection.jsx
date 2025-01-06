@@ -8,8 +8,8 @@ const projects = [
   {
     id: 1,
     title: "Ocean Simulation",
-    description: "A sophisticated fluid dynamics simulation showcasing realistic water behavior, light interaction, and wave patterns. Implemented using advanced GPGPU techniques and custom shaders. Features include dynamic foam generation, realistic caustics, and interactive wave propagation. Built with WebGL and Three.js for optimal performance across devices.",
-    video: "/public/Photos/Sea.mp4",
+    description: "A sophisticated fluid dynamics simulation showcasing realistic water behavior, light interaction, and wave patterns. Implemented using advanced GPU techniques and custom shaders. Features include dynamic foam generation, realistic caustics, and interactive wave propagation. Built with WebGL and Three.js for optimal performance across devices.",
+    video: "/Photos/Sea.mp4",
   },
   {
     id: 2,
