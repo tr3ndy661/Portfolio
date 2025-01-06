@@ -96,42 +96,42 @@ const designProjects = [
   {
     name: "Abstract Harmony",
     description: "An exploration of mathematical beauty through architectural forms. This visualization combines precise geometric patterns with dynamic lighting to create a sense of depth and movement. The design emphasizes the interplay between light and shadow, creating an ethereal atmosphere that challenges traditional spatial perception.",
-    image: "/public/Photos/6.RenderSix.png",
+    image: "/Photos/6.RenderSix.png",
     type: "design",
     color: "#808AF7"
   },
   {
     name: "Crystal Pavilion",
     description: "A futuristic architectural concept merging transparency and structural complexity. This design investigates how light interacts with crystalline forms, creating intricate reflections and refractions. The visualization demonstrates advanced material studies and environmental lighting techniques.",
-    image: "/public/Photos/7.RenderSeven.png",
+    image: "/Photos/7.RenderSeven.png",
     type: "design",
     color: "#4CC9F0"
   },
   {
     name: "Modern Living Space",
     description: "A meticulously crafted interior visualization showcasing contemporary kitchen design. This space balances functionality with aesthetic refinement, featuring carefully considered material selections, ambient lighting, and architectural detailing that creates an inviting atmosphere for modern living.",
-    image: "/public/Photos/Kitchen.png",
+    image: "/Photos/Kitchen.png",
     type: "design",
     color: "#F72585"
   },
   {
     name: "Geometric Dreams",
     description: "An abstract architectural study exploring the relationship between form and void. This visualization pushes the boundaries of conventional design through bold geometric compositions and dramatic lighting effects, creating a powerful sense of scale and dimension.",
-    image: "/public/Photos/Render3.png",
+    image: "/Photos/Render3.png",
     type: "design",
     color: "#7209B7"
   },
   {
     name: "Urban Oasis",
     description: "A conceptual environment blending natural elements with urban architecture. This visualization explores the harmony between organic forms and geometric structures, enhanced by atmospheric effects and careful composition to create a sense of sanctuary within a metropolitan context.",
-    image: "/public/Photos/SecondRender5.png",
+    image: "/Photos/SecondRender5.png",
     type: "design",
     color: "#4361EE"
   },
   {
     name: "Serene Interior",
     description: "A minimalist interior space that celebrates simplicity and light. This visualization demonstrates mastery of interior lighting techniques, material properties, and spatial composition. The design creates a peaceful atmosphere through careful attention to proportion and detail.",
-    image: "/public/Photos/Room.png",
+    image: "/Photos/Room.png",
     type: "design",
     color: "#4361EE"
   }

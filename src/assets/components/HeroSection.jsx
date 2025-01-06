@@ -15,31 +15,31 @@ const projects = [
     id: 2,
     title: "Particle System Design",
     description: "Interactive neon particle system with dynamic color shifts and motion trails. Utilizes compute shaders for high-performance particle calculations. Features include velocity-based color variation, interactive force fields, and emergent behavioral patterns. Optimized for real-time rendering with up to 1 million particles.",
-    video: "/public/Photos/ParticalNEon.mp4",
+    video: "/Photos/ParticalNEon.mp4",
   },
   {
     id: 3,
     title: "Earth Visualization",
     description: "High-fidelity 3D Earth model with accurate atmospheric effects and cloud systems. Includes detailed terrain mapping, real-time weather data visualization, and atmospheric scattering. Features day/night cycle simulation, realistic cloud formation, and interactive point-of-interest navigation. Built using custom WebGL shaders and geospatial data integration.",
-    video: "/public/Photos/EarthRotation.mp4",
+    video: "/Photos/EarthRotation.mp4",
   },
   {
     id: 4,
     title: "Atmospheric Rendering",
     description: "Atmospheric skull scene featuring volumetric lighting and dynamic flame simulation. Implements ray-marched volumetric fog, realistic fire behavior, and dynamic shadow mapping. Includes particle-based ember systems, heat distortion effects, and realistic light scattering. Optimized using compute shaders and advanced rendering techniques.",
-    video: "/public/Photos/SkullCandel.mp4",
+    video: "/Photos/SkullCandel.mp4",
   },
   {
     id: 5,
     title: "Motion Graphics",
     description: "Dynamic timeline animation system with procedural generation and real-time effects. Features custom easing functions, morphing transitions, and interactive timeline controls. Includes dynamic typography, particle integrations, and responsive animations. Built using WebGL and custom animation framework for smooth performance.",
-    video: "/public/Photos/Timeline 1.mp4",
+    video: "/Photos/Timeline 1.mp4",
   },
   {
     id: 6,
     title: "Visual Effects",
     description: "Advanced visual effects suite demonstrating next-gen rendering techniques. Showcases ray-traced reflections, dynamic particle systems, and procedural animations. Features include real-time post-processing, advanced material systems, and interactive lighting. Optimized using modern GPU features and efficient rendering pipelines.",
-    video: "/public/Photos/Timeline 2.mp4",
+    video: "/Photos/Timeline 2.mp4",
   }
 ];
 
